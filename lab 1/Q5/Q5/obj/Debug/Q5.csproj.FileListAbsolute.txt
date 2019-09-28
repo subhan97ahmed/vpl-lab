@@ -1,0 +1,6 @@
+E:\Users\user\source\repos\Q5\Q5\bin\Debug\Q5.exe.config
+E:\Users\user\source\repos\Q5\Q5\bin\Debug\Q5.exe
+E:\Users\user\source\repos\Q5\Q5\bin\Debug\Q5.pdb
+E:\Users\user\source\repos\Q5\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
+E:\Users\user\source\repos\Q5\Q5\obj\Debug\Q5.exe
+E:\Users\user\source\repos\Q5\Q5\obj\Debug\Q5.pdb

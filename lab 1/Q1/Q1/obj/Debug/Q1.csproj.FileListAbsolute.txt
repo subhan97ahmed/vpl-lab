@@ -1,0 +1,6 @@
+E:\Users\user\source\repos\Q1\Q1\bin\Debug\Q1.exe.config
+E:\Users\user\source\repos\Q1\Q1\bin\Debug\Q1.exe
+E:\Users\user\source\repos\Q1\Q1\bin\Debug\Q1.pdb
+E:\Users\user\source\repos\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\Users\user\source\repos\Q1\Q1\obj\Debug\Q1.exe
+E:\Users\user\source\repos\Q1\Q1\obj\Debug\Q1.pdb
