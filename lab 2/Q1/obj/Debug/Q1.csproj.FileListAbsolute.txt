@@ -1,0 +1,8 @@
+C:\Users\7500\Desktop\MIKS VPL LAB\LAB 01\Q1\bin\Debug\Q1.exe.config
+C:\Users\user\Desktop\lab 2\Q1\bin\Debug\Q1.exe.config
+C:\Users\user\Desktop\lab 2\Q1\bin\Debug\Q1.exe
+C:\Users\user\Desktop\lab 2\Q1\bin\Debug\Q1.pdb
+C:\Users\user\Desktop\lab 2\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lab 2\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab 2\Q1\obj\Debug\Q1.exe
+C:\Users\user\Desktop\lab 2\Q1\obj\Debug\Q1.pdb
