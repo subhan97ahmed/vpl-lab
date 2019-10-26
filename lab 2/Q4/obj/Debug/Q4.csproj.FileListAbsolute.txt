@@ -1,0 +1,12 @@
+C:\Users\7500\Desktop\MIKS VPL LAB\LAB 01\Q4\bin\Debug\Q4.exe.config
+C:\Users\7500\Desktop\MIKS VPL LAB\LAB 01\Q4\bin\Debug\Q4.exe
+C:\Users\7500\Desktop\MIKS VPL LAB\LAB 01\Q4\bin\Debug\Q4.pdb
+C:\Users\7500\Desktop\MIKS VPL LAB\LAB 01\Q4\obj\Debug\Q4.exe
+C:\Users\7500\Desktop\MIKS VPL LAB\LAB 01\Q4\obj\Debug\Q4.pdb
+C:\Users\user\Desktop\lab 2\Q4\bin\Debug\Q4.exe.config
+C:\Users\user\Desktop\lab 2\Q4\bin\Debug\Q4.exe
+C:\Users\user\Desktop\lab 2\Q4\bin\Debug\Q4.pdb
+C:\Users\user\Desktop\lab 2\Q4\obj\Debug\Q4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lab 2\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab 2\Q4\obj\Debug\Q4.exe
+C:\Users\user\Desktop\lab 2\Q4\obj\Debug\Q4.pdb
