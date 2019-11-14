@@ -1,0 +1,22 @@
+E:\Users\user\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Users\user\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Users\user\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Users\user\source\repos\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+E:\Users\user\source\repos\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Users\user\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\Users\user\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Users\user\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Users\user\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Users\user\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Users\user\source\repos\Lab4\Lab4\obj\Debug\Lab4.license.resources
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\user\Desktop\vpl lab\Lab4\Lab4\obj\Debug\Lab4.license_Form.resources
