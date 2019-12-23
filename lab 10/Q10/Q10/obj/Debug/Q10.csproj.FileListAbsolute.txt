@@ -1,0 +1,9 @@
+C:\Users\7500\Desktop\Q10\Q10\bin\Debug\Q10.exe.config
+C:\Users\7500\Desktop\Q10\Q10\bin\Debug\Q10.exe
+C:\Users\7500\Desktop\Q10\Q10\bin\Debug\Q10.pdb
+C:\Users\7500\Desktop\Q10\Q10\obj\Debug\Q10.csprojResolveAssemblyReference.cache
+C:\Users\7500\Desktop\Q10\Q10\obj\Debug\Q10.Form1.resources
+C:\Users\7500\Desktop\Q10\Q10\obj\Debug\Q10.Properties.Resources.resources
+C:\Users\7500\Desktop\Q10\Q10\obj\Debug\Q10.csproj.GenerateResource.Cache
+C:\Users\7500\Desktop\Q10\Q10\obj\Debug\Q10.exe
+C:\Users\7500\Desktop\Q10\Q10\obj\Debug\Q10.pdb
