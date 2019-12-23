@@ -1,0 +1,38 @@
+E:\Users\user\source\repos\lab 8\lab 8\bin\Debug\lab 8.exe.config
+E:\Users\user\source\repos\lab 8\lab 8\bin\Debug\lab 8.exe
+E:\Users\user\source\repos\lab 8\lab 8\bin\Debug\lab 8.pdb
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab 8.csprojAssemblyReference.cache
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\MainWindow.g.cs
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\App.g.cs
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab 8_MarkupCompile.cache
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab 8_MarkupCompile.lref
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\MainWindow.baml
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab 8.g.resources
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab_8.Properties.Resources.resources
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab 8.csproj.GenerateResource.cache
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab 8.csproj.CoreCompileInputs.cache
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab 8.exe
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\lab 8.pdb
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\add_Window.g.cs
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\view_Window.g.cs
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\add_Window.baml
+E:\Users\user\source\repos\lab 8\lab 8\obj\Debug\view_Window.baml
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\bin\Debug\lab 8.exe.config
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\bin\Debug\lab 8.exe
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\bin\Debug\lab 8.pdb
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab 8.csprojAssemblyReference.cache
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\add_Window.g.cs
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\view_Window.g.cs
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\App.g.cs
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab 8_MarkupCompile.cache
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab 8_MarkupCompile.lref
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\add_Window.baml
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\view_Window.baml
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab 8.g.resources
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab_8.Properties.Resources.resources
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab 8.csproj.GenerateResource.cache
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab 8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab 8.exe
+C:\Users\user\Desktop\vpl lab\lab 8\lab 8\obj\Debug\lab 8.pdb
