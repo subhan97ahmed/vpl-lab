@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<config>
+    <title>
+      subhan
+    </title>
+    <text>
+      hi my name is subhan
+    </text>
+  <Width>
+    100
+  </Width>
+  <height>
+    500
+  </height>
+<background>
+  red
+</background>
+  <foreground>
+    black
+  </foreground>
+</config>
+
