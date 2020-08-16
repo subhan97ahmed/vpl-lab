@@ -10,7 +10,7 @@ namespace Q1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Name SUBHAN AHMED");
+            Console.WriteLine("Name  SUBHAN AHMED");
             Console.WriteLine("Address: Comfort housing, Karachi City, Sindh, Pakistan");
             Console.WriteLine("Phone: 03145877790");
             Console.WriteLine("OBJECTIVE: I know quality matter over quantity and I believe we never stop learning new things in our life. I am willing to learn new things and have great experience.");
